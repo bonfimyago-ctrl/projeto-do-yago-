@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "titulo": "exemplo 01",
+        "genero": "categori A",
+        "ano": 2026
+    },
+    {
+         "id": 2,
+        "titulo": "exemplo 02",
+        "genero": "categori B",
+        "ano": 2025
+    }
+]
